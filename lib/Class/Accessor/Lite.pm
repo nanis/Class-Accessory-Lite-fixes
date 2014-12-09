@@ -1,5 +1,6 @@
 package Class::Accessor::Lite;
 
+use 5.008006;
 use strict;
 
 our $VERSION = '0.06';
